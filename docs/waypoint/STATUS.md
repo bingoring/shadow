@@ -36,4 +36,4 @@
 ## AI 진입점
 
 > AI는 위 테이블에서 `PENDING` 상태인 가장 앞 스테이지부터 작업을 시작하세요.  
-> 규칙: [`FRAMEWORK.md`](../../FRAMEWORK.md) 참조
+> 규칙: 세션 시작 때 주입되는 `<waypoint>` 블록과 `waypoint:*` 스킬 참조
