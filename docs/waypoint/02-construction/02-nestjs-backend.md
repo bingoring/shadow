@@ -1,8 +1,7 @@
 ---
+id: 2-2
 phase: 02-construction
 stage: 02-nestjs-backend
-status: PENDING
-updated: 2026-06-02
 ---
 
 # [Stage 2-2] NestJS Backend
@@ -42,3 +41,7 @@ NestJS 애플리케이션의 모듈 구조, BullMQ 워커 설계, Prisma 스키�
 ## 다음 단계
 
 승인 후 → STATUS.md의 2-2를 `HUMAN_APPROVED`로 업데이트 → `03-langgraph-agent.md`로 이동
+
+## 진행 기록
+
+- 이전 기록은 [HISTORY.md](../HISTORY.md)에 있다.

@@ -1,8 +1,7 @@
 ---
+id: 3-1
 phase: 03-operations
 stage: 01-deployment
-status: PENDING
-updated: 2026-06-02
 ---
 
 # [Stage 3-1] Deployment
@@ -39,3 +38,7 @@ Shadow Engineer의 배포 구성(Docker Compose, 환경변수, Tauri 앱 빌드�
 ## 다음 단계
 
 승인 후 → STATUS.md의 3-1을 `HUMAN_APPROVED`로 업데이트 → `02-monitoring.md`로 이동
+
+## 진행 기록
+
+- 이전 기록은 [HISTORY.md](../HISTORY.md)에 있다.

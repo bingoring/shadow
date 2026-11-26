@@ -1,8 +1,7 @@
 ---
+id: 1-3
 phase: 01-inception
 stage: 03-architecture-decision
-status: PENDING
-updated: 2026-06-02
 ---
 
 # [Stage 1-3] Architecture Decision ⚠️ 비가역 게이트
@@ -46,3 +45,7 @@ Shadow Engineer의 기술 스택을 최종 확정한다. 이 결정은 이후 �
 ## 다음 단계
 
 승인 후 → STATUS.md의 1-3을 `HUMAN_APPROVED`로 업데이트 → Phase 2 Construction 시작
+
+## 진행 기록
+
+- 이전 기록은 [HISTORY.md](../HISTORY.md)에 있다.

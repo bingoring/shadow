@@ -1,39 +1,19 @@
-# Shadow Engineer — Waypoint Status
+# Shadow Engineer — waypoint 현황
 
-**Framework:** [Waypoint](https://github.com/bingoring/waypoint)  
-**PRD:** [prd.md](prd.md) | [prd-tech.md](prd-tech.md)  
-**Decisions (audit):** [DECISIONS.md](DECISIONS.md)  
-**Last updated:** 2026-07-10
+[PRD](prd.md) · [기술 PRD](prd-tech.md) · [결정 로그](DECISIONS.md) · [지난 기록](HISTORY.md)
 
----
+## 스테이지
 
-## Phase 1 — Inception (What)
+| ID | 스테이지 | 상태 | 줄기 | 지금 | 기다림 | 링크 |
+|---|---|---|---|---|---|---|
+| 1-1 | Context Synthesis | AI_PROPOSED | | 계획 검토: 3-Layer 병합 전략·MVP 툴 우선순위 제안 | 오너 판정 | [문서](01-inception/01-context-synthesis.md) |
+| 1-2 | Domain Model | PENDING | | | | |
+| 1-3 | Architecture Decision ⚠️ | PENDING | | | | |
+| 2-1 | Tauri Client | PENDING | | | | |
+| 2-2 | NestJS Backend | PENDING | | | | |
+| 2-3 | LangGraph Agent | PENDING | | | | |
+| 2-4 | Integration | PENDING | | | | |
+| 3-1 | Deployment | PENDING | | | | |
+| 3-2 | Monitoring | PENDING | | | | |
 
-| 스테이지 | 문서 | 상태 |
-|---------|------|------|
-| 1-1 Context Synthesis | [01-context-synthesis.md](01-inception/01-context-synthesis.md) | AI_PROPOSED |
-| 1-2 Domain Model | [02-domain-model.md](01-inception/02-domain-model.md) | PENDING |
-| 1-3 Architecture Decision ⚠️ | [03-architecture-decision.md](01-inception/03-architecture-decision.md) | PENDING |
-
-## Phase 2 — Construction (How)
-
-| 스테이지 | 문서 | 상태 |
-|---------|------|------|
-| 2-1 Tauri Client | [01-tauri-client.md](02-construction/01-tauri-client.md) | PENDING |
-| 2-2 NestJS Backend | [02-nestjs-backend.md](02-construction/02-nestjs-backend.md) | PENDING |
-| 2-3 LangGraph Agent | [03-langgraph-agent.md](02-construction/03-langgraph-agent.md) | PENDING |
-| 2-4 Integration | [04-integration.md](02-construction/04-integration.md) | PENDING |
-
-## Phase 3 — Operations (Ship)
-
-| 스테이지 | 문서 | 상태 |
-|---------|------|------|
-| 3-1 Deployment | [01-deployment.md](03-operations/01-deployment.md) | PENDING |
-| 3-2 Monitoring | [02-monitoring.md](03-operations/02-monitoring.md) | PENDING |
-
----
-
-## AI 진입점
-
-> AI는 위 테이블에서 `PENDING` 상태인 가장 앞 스테이지부터 작업을 시작하세요.  
-> 규칙: 세션 시작 때 주입되는 `<waypoint>` 블록과 `waypoint:*` 스킬 참조
+## 오너 할 일

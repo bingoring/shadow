@@ -1,8 +1,7 @@
 ---
+id: 2-3
 phase: 02-construction
 stage: 03-langgraph-agent
-status: PENDING
-updated: 2026-06-02
 ---
 
 # [Stage 2-3] LangGraph Agent
@@ -44,3 +43,7 @@ LangGraph의 그래프 노드 구조, 상태 스키마, 각 노드의 프롬프�
 ## 다음 단계
 
 승인 후 → STATUS.md의 2-3을 `HUMAN_APPROVED`로 업데이트 → `04-integration.md`로 이동
+
+## 진행 기록
+
+- 이전 기록은 [HISTORY.md](../HISTORY.md)에 있다.

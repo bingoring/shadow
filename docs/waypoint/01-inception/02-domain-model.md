@@ -1,8 +1,7 @@
 ---
+id: 1-2
 phase: 01-inception
 stage: 02-domain-model
-status: PENDING
-updated: 2026-06-02
 ---
 
 # [Stage 1-2] Domain Model
@@ -42,3 +41,7 @@ Shadow Engineer의 핵심 엔티티, 데이터 흐름, DTO 초안을 정의한�
 ## 다음 단계
 
 승인 후 → STATUS.md의 1-2를 `HUMAN_APPROVED`로 업데이트 → `03-architecture-decision.md`로 이동
+
+## 진행 기록
+
+- 이전 기록은 [HISTORY.md](../HISTORY.md)에 있다.

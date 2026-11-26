@@ -1,8 +1,7 @@
 ---
+id: 3-2
 phase: 03-operations
 stage: 02-monitoring
-status: PENDING
-updated: 2026-06-02
 ---
 
 # [Stage 3-2] Monitoring
@@ -38,3 +37,7 @@ Shadow Engineer 운영 단계에서 모니터링할 핵심 지표와 알림 전�
 ## 다음 단계
 
 승인 후 → Waypoint의 모든 스테이지 완료. 실제 구현 단계로 전환.
+
+## 진행 기록
+
+- 이전 기록은 [HISTORY.md](../HISTORY.md)에 있다.

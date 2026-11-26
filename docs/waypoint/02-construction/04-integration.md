@@ -1,8 +1,7 @@
 ---
+id: 2-4
 phase: 02-construction
 stage: 04-integration
-status: PENDING
-updated: 2026-06-02
 ---
 
 # [Stage 2-4] Integration
@@ -43,3 +42,7 @@ NestJS ↔ LangGraph 통신 프로토콜, Tauri ↔ Backend WebSocket 설계, �
 ## 다음 단계
 
 승인 후 → STATUS.md의 2-4를 `HUMAN_APPROVED`로 업데이트 → Phase 3 Operations 시작
+
+## 진행 기록
+
+- 이전 기록은 [HISTORY.md](../HISTORY.md)에 있다.

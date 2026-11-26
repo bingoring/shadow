@@ -1,8 +1,7 @@
 ---
+id: 2-1
 phase: 02-construction
 stage: 01-tauri-client
-status: PENDING
-updated: 2026-06-02
 ---
 
 # [Stage 2-1] Tauri Client
@@ -41,3 +40,7 @@ Tauri v2 로컬 앱의 컴포넌트 구조, IPC 인터페이스, AST 파싱 플�
 ## 다음 단계
 
 승인 후 → STATUS.md의 2-1을 `HUMAN_APPROVED`로 업데이트 → `02-nestjs-backend.md`로 이동
+
+## 진행 기록
+
+- 이전 기록은 [HISTORY.md](../HISTORY.md)에 있다.

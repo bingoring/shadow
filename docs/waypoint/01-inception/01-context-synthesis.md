@@ -1,8 +1,7 @@
 ---
+id: 1-1
 phase: 01-inception
 stage: 01-context-synthesis
-status: AI_PROPOSED
-updated: 2026-07-10
 ---
 
 # [Stage 1-1] Context Synthesis
@@ -133,3 +132,7 @@ Layer 3 (Adjustment·How) Slack 스레드       → 최신 결정(recency desc)�
 ## 다음 단계
 
 승인 후 → STATUS.md의 1-1을 `HUMAN_APPROVED`로 업데이트 → `02-domain-model.md`로 이동
+
+## 진행 기록
+
+- 이전 기록은 [HISTORY.md](../HISTORY.md)에 있다.
